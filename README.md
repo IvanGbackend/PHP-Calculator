@@ -1,2 +1,2 @@
-# PHP-Quiz
-Easy quiz in php
+# PHP-Calculator
+Easy calculator in php
